@@ -1,0 +1,2 @@
+sampledir/samplefile.txt:MoonStruckHorrors
+anothersampledir/subdir:MoonStruckHorrors
